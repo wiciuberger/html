@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+div {
+    width: 700px;
+    height: 200px;
+}
+
+.bi {
+    width: 7000px;
+    height: 200px;
+    background-color: white;
+}
+
+.cz {
+    background-color: red;
+}
+
+.czar {
+    width: 700px;
+    height: 150px;
+    background-color: black;
+}
+
+.bialy {
+    width: 7000px;
+    height: 100px;
+    background-color: red;
+}
+
+.pomar {
+    width: 700px;
+    height: 100px;
+    background-color: orange;
+}
+
+.zolty {
+    width: 7000px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.ziel {
+    width: 700px;
+    height: 100px;
+    background-color: green;
+}
+
+.nieb {
+    width: 7000px;
+    height: 100px;
+    background-color: blue;
+}
+
+.fiole {
+    width: 700px;
+    height: 100px;
+    background-color: purple;
+}
